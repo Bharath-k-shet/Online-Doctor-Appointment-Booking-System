@@ -65,8 +65,8 @@ A full-stack MERN web application that allows users to book doctor appointments 
 ![Register](Screenshot%202026-04-15%20174538.png)
 
 ### ✅ Payment Success
-![Payment Success](./screenshots/payment-success.png)
----
+![Payment Success](Screenshot%202026-04-15%20174545.png)
+
 
 ## ⚙️ Installation & Setup
 
