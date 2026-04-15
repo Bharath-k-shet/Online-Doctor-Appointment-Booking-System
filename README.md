@@ -46,24 +46,26 @@ A full-stack MERN web application that allows users to book doctor appointments 
 ### 🧑‍⚕️ Doctors Listing
 ![Doctors](Screenshot%202026-04-15%20174307.png)
 
-### 📅 Appointment Booking
+### 📅 About Page
 ![Booking](Screenshot%202026-04-15%20174321.png)
 
-### 👤 User Profile
+### 🔐 Create Account
 ![Profile](Screenshot%202026-04-15%20174333.png)
 
-### 📋 My Appointments
+### 👤 User Profile
 ![Appointments](Screenshot%202026-04-15%20174441.png)
 
-### 💳 Payment Gateway
+### 🧑‍⚕️ My Appointments
 ![Payment](Screenshot%202026-04-15%20174459.png)
 
-### ✅ Payment Success
+### 🧑‍⚕️ Doctors Profile
 ![Payment Success](Screenshot%202026-04-15%20174516.png)
 
-### 🔐 Create Account
+### 💳 Payment Gateway
 ![Register](Screenshot%202026-04-15%20174538.png)
 
+### ✅ Payment Success
+![Payment Success](./screenshots/payment-success.png)
 ---
 
 ## ⚙️ Installation & Setup
