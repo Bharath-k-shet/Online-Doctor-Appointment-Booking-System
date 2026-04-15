@@ -1,4 +1,4 @@
-# 🩺 Prescripto - Doctor Appointment Booking System
+# 🩺 Online Doctor Appointment Booking System
 
 A full-stack MERN web application that allows users to book doctor appointments online, manage profiles, and make secure payments using Razorpay.
 
@@ -41,28 +41,28 @@ A full-stack MERN web application that allows users to book doctor appointments 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home](Screenshot%202026-04-15%20174245.png)
 
-### 🧑‍⚕️ Doctors Listing Page
-![Doctors](./screenshots/doctors.png)
+### 🧑‍⚕️ Doctors Listing
+![Doctors](Screenshot%202026-04-15%20174307.png)
 
-### 📅 Appointment Booking Page
-![Booking](./screenshots/booking.png)
+### 📅 Appointment Booking
+![Booking](Screenshot%202026-04-15%20174321.png)
 
-### 👤 User Profile Page
-![Profile](./screenshots/profile.png)
+### 👤 User Profile
+![Profile](Screenshot%202026-04-15%20174333.png)
 
-### 📋 My Appointments Page
-![Appointments](./screenshots/appointments.png)
+### 📋 My Appointments
+![Appointments](Screenshot%202026-04-15%20174441.png)
 
 ### 💳 Payment Gateway
-![Payment](./screenshots/payment.png)
+![Payment](Screenshot%202026-04-15%20174459.png)
 
 ### ✅ Payment Success
-![Payment Success](./screenshots/payment-success.png)
+![Payment Success](Screenshot%202026-04-15%20174516.png)
 
-### 🔐 Create Account Page
-![Register](./screenshots/register.png)
+### 🔐 Create Account
+![Register](Screenshot%202026-04-15%20174538.png)
 
 ---
 
@@ -70,5 +70,5 @@ A full-stack MERN web application that allows users to book doctor appointments 
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/prescripto.git
-cd prescripto
+git clone https://github.com/your-username/Online-Doctor-Appointment-Booking-System.git
+cd Online-Doctor-Appointment-Booking-System
